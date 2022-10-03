@@ -1,0 +1,7 @@
+conda -V
+conda --version
+-> anaconda version 확인
+
+conda search python
+-> conda에서 이용가능한 python version
+l
